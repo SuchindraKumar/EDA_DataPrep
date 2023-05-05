@@ -7,3 +7,11 @@
 ### Dataprep can handle various types of data, including structured, semi-structured, and unstructured data. It can also be integrated with other popular data analysis and modeling libraries, such as pandas and scikit-learn, making it a powerful tool for data preparation in machine learning workflows.
 
 ### Overall, Dataprep is a useful tool for data analysts, data scientists, and anyone who works with data. It can help users save time and effort by automating many of the tedious and time-consuming tasks associated with data cleaning and preparation.
+
+### or more Details please checkout Official Documentation:
+
+```
+https://pypi.org/project/dataprep/
+
+
+```
