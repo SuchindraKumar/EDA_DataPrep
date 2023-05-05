@@ -8,7 +8,7 @@
 
 ### Overall, Dataprep is a useful tool for data analysts, data scientists, and anyone who works with data. It can help users save time and effort by automating many of the tedious and time-consuming tasks associated with data cleaning and preparation.
 
-### or more Details please checkout Official Documentation:
+### For More Details Please Checkout Official Documentation:
 
 ```
 https://pypi.org/project/dataprep/
